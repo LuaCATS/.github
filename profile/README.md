@@ -1,5 +1,5 @@
 # LuaCATS
-Hello 👋!
+Hello! 👋
 
 LuaCATS stands for "Lua Comment And Type System", which is the system used by [Sumneko](https://github.com/sumneko)'s [Lua Language Server][lls]. This organization provides a place for community projects to live. These projects are definition files for popular libraries/frameworks, plugins, and more!
 
